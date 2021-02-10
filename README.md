@@ -1,5 +1,5 @@
 # time-execution
-A simple script that can time how long a script (or section) takes to execute.
+A simple Python script that can time how long a script (or section) takes to execute.
 
 Includes start and end functions that can imported in to other scripts to time how long a section or entire script takes to execute.
 
