@@ -1,13 +1,12 @@
-'''Function that allows for the coder to insert a start and end point for the progreamme to track the time it took to execute.'''
+# Function that allows for the coder to insert a start and end point for the progreamme to track the time it took to execute
 
-''' Instructions:
+# Instructions:
 
 # Put at start point:
-    start = xstart()
+   # start = xstart()
 
 # Put at end point:
-    xend(start) 
-'''
+   # xend(start) 
 
 # Start
 def xstart():
